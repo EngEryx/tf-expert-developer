@@ -12,6 +12,7 @@
  * [Convolutional Neural Networks](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)
  * [Understanding Cross Entropy Loss](https://gombru.github.io/2018/05/23/cross_entropy_loss/)
  * [Image Filtering](https://lodev.org/cgtutor/filtering.html)
+ * [Train/Dev/Test Sets by Andrew Ng](https://www.youtube.com/watch?v=1waHlpKiNyY&list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc)
  
 
 # Achievments
