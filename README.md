@@ -2,9 +2,9 @@
 
 - Notes, Excercises while taking Deep Learning TensorFlow in practise Course on Coursera.
 * My goals are:-
-    * First, improve/refresh my skills in readiness for Tensorflow Developer Certificate.
-    * Utilize Covid Lockdown to the level best.
-    * Solve problems, where I work... How can solve the world's problems using AI.
+    * Refresh my skills in readiness for Tensorflow Developer Certificate.
+    * Utilize Covid-19 Lockdown to climb up the AI ladder.
+    * Apply the skills to solve problems at my place of work.
 
 # Further Learning Resources
  * [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) Offered by Google, very comprehensive.
@@ -13,17 +13,18 @@
  * [Understanding Cross Entropy Loss](https://gombru.github.io/2018/05/23/cross_entropy_loss/)
  * [Image Filtering](https://lodev.org/cgtutor/filtering.html)
  * [Train/Dev/Test Sets by Andrew Ng](https://www.youtube.com/watch?v=1waHlpKiNyY&list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc)
+ * [Text Generation Course 3 - Tensorflow](https://www.tensorflow.org/tutorials/text/text_generation)
  
 
 # Achievments
 * [Certificate Introduction to Tensorflow](https://coursera.org/share/9db9ce4cf8560fe388b6eee71a86eec2)
-* [Certificate for 1 of 4](https://coursera-certificate-images.s3.amazonaws.com/25HDLTLAGH8V) 
+ ![Certificate for 1 of 4](https://coursera-certificate-images.s3.amazonaws.com/25HDLTLAGH8V) 
 * [Certificate Convolutional Neural Networks in Tensorflow](https://coursera.org/share/69791674303e876845d3868ab65da54d)
-* [Certificate for 2 of 4](https://coursera-certificate-images.s3.amazonaws.com/QUKQ3TZFMSAV) 
+![Certificate for 2 of 4](https://coursera-certificate-images.s3.amazonaws.com/QUKQ3TZFMSAV) 
 * [Natural Language Processing in TensorFlow](https://coursera.org/share/a10e51c94316576f188fee3c71b38f15)
 ![Certificate for 2 of 4](https://coursera-certificate-images.s3.amazonaws.com/AMD9DVLJP5K8) 
 
 # Author
-*  Eric Kirima. 
+*  Eric Kirima, 2020-. 
 
 
