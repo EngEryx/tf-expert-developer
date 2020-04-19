@@ -14,6 +14,7 @@
  * [Image Filtering](https://lodev.org/cgtutor/filtering.html)
  * [Train/Dev/Test Sets by Andrew Ng](https://www.youtube.com/watch?v=1waHlpKiNyY&list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc)
  * [Text Generation Course 3 - Tensorflow](https://www.tensorflow.org/tutorials/text/text_generation)
+ * [Machine Learning Resources - Tensorflow](https://www.tensorflow.org/resources/learn-ml#educational-resources)
  
 
 # Achievments
