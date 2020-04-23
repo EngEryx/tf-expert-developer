@@ -23,7 +23,9 @@
 * [Certificate Convolutional Neural Networks in Tensorflow](https://coursera.org/share/69791674303e876845d3868ab65da54d)
 ![Certificate for 2 of 4](https://coursera-certificate-images.s3.amazonaws.com/QUKQ3TZFMSAV) 
 * [Natural Language Processing in TensorFlow](https://coursera.org/share/a10e51c94316576f188fee3c71b38f15)
-![Certificate for 2 of 4](https://coursera-certificate-images.s3.amazonaws.com/AMD9DVLJP5K8) 
+![Certificate for 3 of 4](https://coursera-certificate-images.s3.amazonaws.com/AMD9DVLJP5K8) 
+* [Certificate 4 of 4](https://coursera.org/share/875c6688cec3ce2550d11ea20e015c2a)
+![Sequences, Time Series and Predictions](https://coursera-certificate-images.s3.amazonaws.com/XMT675BSESBU)
 
 # Author
 *  Eric Kirima, 2020-. 
