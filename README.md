@@ -17,7 +17,7 @@
  * [Machine Learning Resources - Tensorflow](https://www.tensorflow.org/resources/learn-ml#educational-resources)
  
 
-# Achievments
+# Achievements
 * [Certificate Introduction to Tensorflow](https://coursera.org/share/9db9ce4cf8560fe388b6eee71a86eec2)
  ![Certificate for 1 of 4](https://coursera-certificate-images.s3.amazonaws.com/25HDLTLAGH8V) 
 * [Certificate Convolutional Neural Networks in Tensorflow](https://coursera.org/share/69791674303e876845d3868ab65da54d)
